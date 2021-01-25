@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+	
+}
+body{
+	background-color: #D3D3D3;
+	font-family: 'Open Sans', sans-serif;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 3%;
+}
+div{
+	border: solid 1px;
+}
+div > div {
+	border: solid 1px;
+}
